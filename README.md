@@ -10,6 +10,6 @@ The below user stories are fulfilled. Various libraries and APIs are used.
 
 3. User Story: I can push a button to toggle between Fahrenheit and Celsius.
 
-Below is the screenshot of the web-app.
+Below is the screenshot of the web-app:
 
 ![My picture](https://github.com/megshithakur1/Local-Weather-Report/blob/master/screenshots/1.png)
