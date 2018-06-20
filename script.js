@@ -11,7 +11,7 @@ $( document ).ready(function(){
       getWeather(lat, lon);
     });
   } else {
-    console.log("Geolocation is not supported by this browser.");
+    console.log("Geolocation is not supported by this browser.Try a different browser.");
   }
 
   $("#tempunit").click(function () {
