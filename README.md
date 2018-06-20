@@ -15,4 +15,4 @@ Below is the screenshot of the Local Weather Report Web-App:
 ![My picture](https://github.com/megshithakur1/Local-Weather-Report/blob/master/screenshots/1.png)
 
 
-[Megshi Thakur](https://www.linkedin.com/in/megshithakur/) 
+For any queries contact: [Megshi Thakur](https://www.linkedin.com/in/megshithakur/) 
